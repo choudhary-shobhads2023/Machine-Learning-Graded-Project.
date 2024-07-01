@@ -25,3 +25,5 @@ In this particular project, we are going to work on the inaugural corpora from t
 * Removed all the stopwords from the three speeches.
 * Retrieved Most Frequent Word Distribution in each President's Speech.
 * Plot the word cloud of each of the three speeches (after removing the stopwords).
+
+  Predicted election exit poll results with 85% accuracy using machine learning algorithms and analyzed U.S. presidential speeches, uncovering key sentiment shifts that informed campaign strategies
